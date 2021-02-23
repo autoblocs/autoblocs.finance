@@ -1,3 +1,3 @@
-# AutoBlocs.Finance - Yield Farming
+# AutoBlocs.Finance - DEFI
 
-Autoblocs yield farming algorithm
+Autoblocs DEFI
